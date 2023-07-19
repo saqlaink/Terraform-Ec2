@@ -1,5 +1,7 @@
 # Terraform-Ec2
 
+#### Automate provisioning EC2 severs on AWS with Terraform and automate deploying dockerized applications with docker-compose using ansible by taking advantage of AWS dynamic inventory.
+
 Initialize
 
 ```
